@@ -1,2 +1,5 @@
 # VisualAnalytics
-MSc Visual Analytics coursework
+City, University of London
+Data Science MSc 
+Judith Grieves
+Visual Analytics coursework
