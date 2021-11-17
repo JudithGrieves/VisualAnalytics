@@ -1,5 +1,5 @@
-# A Visual Investigation of Trends in UK Rainfall  
-City, University of London  
-Data Science MSc  
-Judith Grieves  
-Visual Analytics coursework  
+## Judith Grieves
+### City, University of London   MSc Data Science  
+### Visual Analytics project
+
+A Visual Investigation of Trends in UK Rainfall  
